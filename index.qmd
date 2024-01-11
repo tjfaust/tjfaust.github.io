@@ -19,6 +19,8 @@ backgroundcolor: lavenderblush
 ### WRITING
 #### Recent work
 
+[![](hjnbook.png){fig-alt="hjnbook"}](https://www.healthjusticenow.com)
+
 * ***[Health Justice Now](https://www.healthjusticenow.com/)***, Melville House, 2019 
 	+ *Health Justice Now* is a book I wrote as a primer for any interested layperson about "what is American healthcare, how does it work, and why do I feel fucked over all the time?" as well as an argument for single-payer health care. The book also explores broader concepts in health justice; the social and structural determinants of health, how they shake out in all kinds of people's lives, and the massive popular movement we need if we are ever to be free in our bodies. 
 	+ "*The best concise explanation of why the United States needs single-payer health care — and needs to widen the definition of health care itself.*" — [Washington Post](https://www.washingtonpost.com/opinions/2019/08/14/why-we-need-single-payer-health-care-health-justice/)

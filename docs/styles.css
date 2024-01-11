@@ -14,9 +14,10 @@ img[alt=old_headshot] {
 	width: 400px; 
 	padding-bottom: 0px; 
 	padding-top: 10px; 
-	
-
 } 
+img[alt=hjnbook]{
+	width:500px;
+}
 
 .caption {
 	font-size: 60%;
